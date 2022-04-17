@@ -7,8 +7,8 @@ Created on Sat Apr  6 18:39:34 2019
 """
 import os
 
-user = 'admin'
-passwd = 'admin'
+user = '17340114542'
+passwd = 'wqq15196158562'
 
 USER = user
 PASSWD = passwd
